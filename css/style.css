@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,600;1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,600;0,700;1,500;1,600&display=swap');
+
+/*Ajustando a Imagem em relação ao título*/
+img{
+  margin-right: 15px;
+}
+
+/*Fonte Título Navbar*/
+a{
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-weight: bold;
+  
+}
